@@ -17,7 +17,7 @@ const Header = () => {
                 <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                     <Nav>
                         <NavItem> <NavLink to="/" className="text-white text-decoration-none p-4"> Add Project </NavLink> </NavItem>
-                        <NavItem> <NavLink to="/projectList" className="text-white text-decoration-none p-4">Project List</NavLink> </NavItem>
+                        <NavItem> <NavLink to="/projectList" className="text-white text-decoration-none p-4">Result List</NavLink> </NavItem>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
